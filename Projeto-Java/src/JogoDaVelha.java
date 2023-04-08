@@ -14,11 +14,11 @@ public class JogoDaVelha {
             System.out.println("Aniquilacao mutua");
             } else if (jogador1.equalsIgnoreCase("papel") && jogador2.equalsIgnoreCase("papel")){
             System.out.println("Ambos venceram");
-            }    else if (jogador1.equalsIgnoreCase("ataque") && jogador2.equalsIgnoreCase("pedra")){
+            }   else if (jogador1.equalsIgnoreCase("ataque") && jogador2.equalsIgnoreCase("pedra")){
                 System.out.println("Jogador 1 venceu");
-            }           else if (jogador2.equalsIgnoreCase("ataque") && jogador1.equalsIgnoreCase("pedra")){
+            }       else if (jogador2.equalsIgnoreCase("ataque") && jogador1.equalsIgnoreCase("pedra")){
                 System.out.println("Jogador 2 venceu");  
-            }               else if (jogador2.equalsIgnoreCase("papel") && jogador1.equalsIgnoreCase("pedra")){
+            }            else if (jogador2.equalsIgnoreCase("papel") && jogador1.equalsIgnoreCase("pedra")){
                 System.out.println("Jogador 1 venceu");
             }            else if (jogador1.equalsIgnoreCase("papel") && jogador2.equalsIgnoreCase("pedra")){
                 System.out.println("Jogador 2 venceu");
