@@ -3,7 +3,7 @@
 public class CepInvalidException extends Exception {
     public static void main(String[] args) {
         try {
-            String cepFormatado = formatarCep("6517304");
+            String cepFormatado = formatarCep("65173040");
             System.out.println(cepFormatado);
         } catch (CepInvalidException e) {
             // TODO Auto-generated catch block
