@@ -20,8 +20,11 @@ public class Contador {
        }
     }
        static void contar(int paramentroUm, int paramentroDois) throws ParamentrosInvalidosException{
-        if(paramentroUm > paramentroDois){
-            System.out.println("O segundo paramento deve ser maior que o primeiro");
+        if(paramentroUm >= paramentroDois){
+            //var x = new Throwable("O segundo paramento deve ser maior que o primeiro");
+            ParamentrosInvalidosException p = new ParamentrosInvalidosException("O segundo paramento deve ser maior que o primeiro");
+            throw p;
+            //throw new ParamentrosInvalidosException("O segundo paramento deve ser maior que o primeiro");
         }
         int contagem = paramentroUm - paramentroDois;
         for(int i=1; i <= contagem; i++){
