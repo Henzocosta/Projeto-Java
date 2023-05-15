@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author henzocosta
+ *
+ */
+module HashMap {
+}
