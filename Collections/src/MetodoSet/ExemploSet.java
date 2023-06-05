@@ -1,4 +1,4 @@
-package MetodoSet;
+package Collections.src.MetodoSet;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -10,7 +10,7 @@ public class ExemploSet {
 		
 		
 		System.out.println("Crie um conjunto e adicione as notas: ");
-		Set<Double> notas = new HashSet<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3,6));
+		Set<Double> notas = new HashSet<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6));
 		System.out.println(notas.toString());
 	}
 
