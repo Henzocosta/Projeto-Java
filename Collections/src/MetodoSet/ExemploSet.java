@@ -1,7 +1,6 @@
 package MetodoSet;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -13,10 +12,6 @@ public class ExemploSet {
 		System.out.println("Crie um conjunto e adicione as notas: ");
 		Set<Double> notas = new HashSet<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3,6));
 		System.out.println(notas.toString());
-
-		System.out.println("Confira se a nota 5 esta no conjuto: " + notas.contains(5d));
-
-		System.out.println("Exiba a menor nota: " + Collections.min(notas));
 	}
 
 }
