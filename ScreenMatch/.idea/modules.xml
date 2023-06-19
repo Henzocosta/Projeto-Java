@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DesafioAlura/DesafioAlura.iml" filepath="$PROJECT_DIR$/../DesafioAlura/DesafioAlura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenMatch.iml" filepath="$PROJECT_DIR$/ScreenMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpotMusic/SpotMusic.iml" filepath="$PROJECT_DIR$/SpotMusic/SpotMusic.iml" />
+    </modules>
+  </component>
+</project>
