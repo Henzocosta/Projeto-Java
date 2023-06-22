@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../DesafioAlura/DesafioAlura.iml" filepath="$PROJECT_DIR$/../DesafioAlura/DesafioAlura.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScreenMatch.iml" filepath="$PROJECT_DIR$/ScreenMatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpotMusic/SpotMusic.iml" filepath="$PROJECT_DIR$/SpotMusic/SpotMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../buscador/buscador.iml" filepath="$PROJECT_DIR$/../buscador/buscador.iml" />
     </modules>
   </component>
 </project>
